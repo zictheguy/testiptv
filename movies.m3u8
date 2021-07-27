@@ -1,0 +1,25 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="INFO",= X-MEN
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/01.(2011)%20X-Men%20First%20Class%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/02.(2014)%20X-Men%20Days%20of%20Future%20Past%20(2014)%20Rogue%20Cut%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/03.(2009)%20X-Men%20Origins%20Wolverine%20(2009)%20Extended%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/04.(2016)%20X-Men%20Apocalypse%20(2016)%20(1080p%20BluRay%20x265%2010bit%20Prof-K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/05.(2019)%20X-Men%20Dark%20Phoenix%20(2019)%20(1080p%20BluRay%20x265%2010bit%20TimeDistortion-K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/06.(2000)%20X-Men%20(2000)%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/07.(2003)%20X2%20X-Men%20United%20(2003)%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/08.(2006)%20X-Men%20The%20Last%20Stand%20(2006)%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/09.(2013)%20The%20Wolverine%20(2013)%20Extended%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/10.(2017)%20Logan%20(2017)%20Noir%20(1080p%20BluRay%20x265%2010bit%20Tigole).mkv
+#EXTINF:-1 group-title="MOVIES"
+https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/11.(2020)%20The%20New%20Mutants%20(2020)%20(1080p%20BluRay%2010bit%20HEVC%20x265%20AAC%205.1%20RONIN).mkv
