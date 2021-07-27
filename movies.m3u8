@@ -1,8 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="INFO",= X-MEN
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1 group-title="MOVIES"
-https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/01.(2011)%20X-Men%20First%20Class%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
+#EXTINF:-1 group-title="MOVIES", No Body 2021
+https://one.shinobicloud.workers.dev/0:/Bot1/Nobody.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO[TGx]/Nobody.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO.mkv
 #EXTINF:-1 group-title="MOVIES"
 https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/02.(2014)%20X-Men%20Days%20of%20Future%20Past%20(2014)%20Rogue%20Cut%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
 #EXTINF:-1 group-title="MOVIES"
