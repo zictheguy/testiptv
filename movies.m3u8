@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="MOVIES" subtitles="https://raw.githubusercontent.com/zictheguy/testiptv/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt" subtitles="subtitles_en_1", No Body 2021
+#EXTINF:-1 group-title="MOVIES" subtitles="https://raw.githubusercontent.com/zictheguy/testiptv/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt" subtitles="subtitles_en_01", No Body 2021
 https://s1.googleusercontent.workers.dev/2:/Bot%20Uploads/Nobody%20(2021)%201080p%2010bit%20Bluray%20x265%20HEVC%20English%20DDP%205.1%20ESubs%20~%20TombDoc/Nobody%20(2021)%201080p%2010bit%20Bluray%20x265%20HEVC%20English%20DDP%205.1%20ESubs%20~%20TombDoc.mkv
-#EXTINF:-1 group-title="MOVIES" subtitles="https://raw.githubusercontent.com/zictheguy/testiptv/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt" subtitles="subtitles_en_01", X-Men test 1
+#EXTINF:-1 group-title="MOVIES" subtitles="https://raw.githubusercontent.com/zictheguy/testiptv/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt", X-Men test 1
 https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/02.(2014)%20X-Men%20Days%20of%20Future%20Past%20(2014)%20Rogue%20Cut%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
-#EXTINF:-1 group-title="MOVIES" subtitles="https://github.com/zictheguy/testiptv/blob/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt" subtitles="subtitles_en_Eng BD-PGS-SDH", X-Men test 2
+#EXTINF:-1 group-title="MOVIES" subtitles="https://github.com/zictheguy/testiptv/blob/main/Nobody_2021_PROPER_1080p_UHD_BluRay_DD7.1_x264-LoRD.srt", X-Men test 2
 https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/03.(2009)%20X-Men%20Origins%20Wolverine%20(2009)%20Extended%20(1080p%20BluRay%20x265%2010bit%20K1tKat).mkv
 #EXTINF:-1 group-title="MOVIES"
 https://bimbip.marvel4ever.workers.dev/0:/X-Men%20(Chronological%20Order)/04.(2016)%20X-Men%20Apocalypse%20(2016)%20(1080p%20BluRay%20x265%2010bit%20Prof-K1tKat).mkv
